@@ -1,9 +1,0 @@
-Demo0 : Problems with Date
-Demo2 : Problems with Calendar
-Demo3 : Understanding LocalDate
-Demo4 : Understanding LocalTime
-Demo5 : Understanding LocalDateTime
-Demo6 : Understanding OffsetDateTime
-Demo7 : Understanding ZonedDateTime
-Demo8 : Understanding ChronoUnit, Period and Duration
-Demo9 : Understanding DateTimeFormatter
